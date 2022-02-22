@@ -1,0 +1,41 @@
+.row1{
+    clear: both;
+    float: left;
+}
+.column1{
+    float:left;
+    margin-top: 20px;
+}
+.column1>img{
+    width: 241px;
+    height: 161px;
+    border: 2px double blue;
+    border-radius: 3px;
+}
+.column2{
+    float:left;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.column2>h4{
+    margin-top: 0px;
+    font-weight: bolder;
+    color: blue;
+    font-size: 25px;
+}
+html{
+    background-color:lightpink;
+}
+iframe{
+    margin-top: 30px;
+}
+br{
+    clear: both;
+}
+.fb-comments{
+    clear: both;
+    background-color: black;
+    margin-left: 30%;
+}
